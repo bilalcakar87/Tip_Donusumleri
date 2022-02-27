@@ -81,4 +81,3 @@ Console.WriteLine("double1: " +  double1);
 }
 
 
-// //olarak alınmış olanlar derslerde anlatılıp sonuç alınmış code lar fakat anlatıcı farklı bi debug mı kullanıyo farklı bi durum mu var algılayamadım son surum kullandığım için versiyon farklarından mıdır ondan emin olamdığım için bir bilene sorana kadar sunum bu malesef ama standart C# visual da çalışan codelardır çoğu...
